@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unitec-integracion.iml" filepath="$PROJECT_DIR$/.idea/modules/unitec-integracion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unitec-integracion_main.iml" filepath="$PROJECT_DIR$/.idea/modules/unitec-integracion_main.iml" group="unitec-integracion" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unitec-integracion_test.iml" filepath="$PROJECT_DIR$/.idea/modules/unitec-integracion_test.iml" group="unitec-integracion" />
+    </modules>
+  </component>
+</project>
